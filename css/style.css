@@ -147,7 +147,7 @@ a:hover {
 	font-size: 16px;
 	text-align: center;
 	border: none;
-	border-radius: 4px;
+	border-radius: 20px;
 	cursor: pointer;
 	transition: all .3s ease;
 }
@@ -168,7 +168,7 @@ a:hover {
 }
 
 .app .numero-caracteres .botones div:nth-child(1) button{
-	border-radius: 4px 0 0 4px;
+	border-radius: 20px 0 0 20px;
 }
 .app .numero-caracteres input {
 	height: 40px;
@@ -178,7 +178,7 @@ a:hover {
 	color: #fff;
 }
 .app .numero-caracteres .botones div:nth-child(3) button{
-	border-radius: 0 4px 4px 0;
+	border-radius: 0 20px 20px 0;
 }
 
 .app .numero-caracteres .botones{
@@ -226,7 +226,7 @@ a:hover {
 	height: 14px;
 	position: absolute;
 	top:13px;
-	right:-7px;
+	right:-4px;
 	transform: rotate(45deg);
 	z-index: 9;
 	transition: all .3s ease;
@@ -239,7 +239,7 @@ a:hover {
 .app .fila.generar .input-password {
 	width: 100%;
 	background: #212529;
-	border-radius: 4px;
+	border-radius: 20px;
 	border:1px solid rgba(255,255,255,.25);
 	color: #fff;
 	height: 40px;

@@ -134,9 +134,6 @@
 		// Eliminamos el ultimo espaciado que sobra en la cadena de texto.
 		caracteresFinales = caracteresFinales.trim();
 
-		// console.log para comprobar que la variable de caracteres finales contiene todos los caracteres que el usuario si quiere.
-		// console.log(caracteresFinales);
-		
 		// Convertimos la cadena de texto de caracteres finales a un arreglo.
 		caracteresFinales = caracteresFinales.split(' ');
 
